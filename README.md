@@ -51,4 +51,7 @@ This project implements an IoT-based predictive maintenance system for manufactu
 - Import `machine_data.csv` into Power BI to visualize trends and maintenance alerts.
 
 ## Example Output
-- **Log Example**:
+- **Example Dashboard**:
+- <img width="963" height="542" alt="Machine Data Dashboard" src="https://github.com/user-attachments/assets/ea5ba1ea-3ee6-4046-a5f2-330ad0531491" />
+
+- 

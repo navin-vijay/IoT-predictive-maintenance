@@ -54,6 +54,10 @@ This project implements an IoT-based predictive maintenance system for manufactu
 - **Example Dashboard**:
 - <img width="963" height="542" alt="Machine Data Dashboard" src="https://github.com/user-attachments/assets/ea5ba1ea-3ee6-4046-a5f2-330ad0531491" />
 
+## Layout Image
+- **Layout Image**:
+- <img width="1536" height="1024" alt="IoT-Layout" src="https://github.com/user-attachments/assets/0702bbe6-397b-4aed-820f-ae90557b8b64" />
+
 > ⚠️ **Disclaimer**  
 > This repository uses **sample / modeled datasets** and **sample code** to demonstrate the concept of IoT-based predictive maintenance.  
 > It does **not** contain the original proprietary data or source code developed during my work at V.T.V Vejay Traders.  
